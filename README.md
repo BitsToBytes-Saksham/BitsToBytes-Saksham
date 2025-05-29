@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/Download-Resume%20(PDF)-00A3FF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Saksham Gupta's Resume"/>
   </a>
 </p>
-
+![GitHub Snake](https://github.com/BitsToBytes-Saksham/BitsToBytes-Saksham/blob/output/github-contribution-grid-snake.svg)
 <hr style="border-top: 2px solid #00A3FF; margin-top: 35px; margin-bottom: 35px; border-radius: 2px;">
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; color: #79D8FF; font-size: 1.1em; font-style: italic; letter-spacing: 0.5px;">
