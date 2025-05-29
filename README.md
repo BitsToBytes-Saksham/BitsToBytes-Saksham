@@ -3,16 +3,16 @@
     SAKSHAM GUPTA
   </h1>
   <h3 style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 500; color: #79D8FF; margin-top: 5px; margin-bottom: 20px;">
-    Aspiring Software Innovator | Computer Science Engineering Student
+    Code. Debug. Deploy.
   </h3>
   <p style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #D0D0D0; font-size: 1.05em; max-width: 700px; margin: auto; line-height: 1.7;">
-    A driven Second-Year CSE student at PES University, on a mission to transform ideas into impactful software. I thrive on challenges, continuously explore emerging technologies, and am dedicated to crafting elegant and efficient digital solutions.
+    A Second-Year CSE Student.
   </p>
 </div>
 
 <hr style="border-top: 2px solid #00A3FF; margin-top: 35px; margin-bottom: 35px; border-radius: 2px;">
 
-<h3 align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 600; color: #79D8FF; margin-bottom: 20px;">GitHub Pulse & Tech Fluency</h3>
+<h3 align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 600; color: #79D8FF; margin-bottom: 20px;">GitHub Statistics</h3>
 <div align="center" style="margin-bottom: 30px;">
   <table width="95%" style="border: none; font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <tr>
