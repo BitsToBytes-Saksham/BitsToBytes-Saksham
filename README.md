@@ -6,7 +6,7 @@
     Aspiring Software Innovator | Computer Science Engineering Student
   </h3>
   <p style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #D0D0D0; font-size: 1.05em; max-width: 700px; margin: auto; line-height: 1.7;">
-    A driven second-year CSE student at PES University, on a mission to transform ideas into impactful software. I thrive on challenges, continuously explore emerging technologies, and am dedicated to crafting elegant and efficient digital solutions.
+    A driven Second-Year CSE student at PES University, on a mission to transform ideas into impactful software. I thrive on challenges, continuously explore emerging technologies, and am dedicated to crafting elegant and efficient digital solutions.
   </p>
 </div>
 
@@ -74,13 +74,13 @@
   <a href="mailto:sakshamgupta.1107@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Saksham Gupta"/>
   </a>  
-  <a href="!!! REPLACE_THIS_WITH_YOUR_DIRECT_RESUME_PDF_LINK !!!" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Download-Resume%20(PDF)-00A3FF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Saksham Gupta's Resume"/>
+  <a href="https://www.canva.com/design/DAGcvnLEnj0/CznFRp7YNln7HmN39s9VVg/view?utm_content=DAGcvnLEnj0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he72a23fe9e" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View-Resume-00A3FF?style=for-the-badge&logo=canva&logoColor=white" alt="View Saksham Gupta's Resume"/>
   </a>
 </p>
-![GitHub Snake](https://github.com/BitsToBytes-Saksham/BitsToBytes-Saksham/blob/output/github-contribution-grid-snake.svg)
+
 <hr style="border-top: 2px solid #00A3FF; margin-top: 35px; margin-bottom: 35px; border-radius: 2px;">
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; color: #79D8FF; font-size: 1.1em; font-style: italic; letter-spacing: 0.5px;">
-  > Not just writing code, I'm scripting the future with a bit of electric cool. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="22" height="22" style="vertical-align:middle;"/>
+  > See you at the merge.<br>    Signing off — until the next commit.
 </p>
