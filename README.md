@@ -1,18 +1,16 @@
-<!-- 🌌 Space-Themed GitHub Profile README for BitsToBytes-Saksham -->
+<!-- 🌌 Space-Themed GitHub Profile README -->
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="Earth from space"/>
+  <img src="https://media.giphy.com/media/3o7TKP9WvOyD7mSDU0/giphy.gif" width="100%" alt="Earth from space" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🌍+Welcome+to+My+Universe!;🚀+I+code+from+orbit+with+curiosity.;🛰️+BitsToBytes-Saksham+reporting..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🌍+Welcome+to+My+Universe!;🚀+I+code+from+orbit+with+curiosity.;🛰️+BitsToBytes-Saksham+reporting..." alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">🧑‍🚀 About Me</h2>
+## 🧑‍🚀 About Me
 
 ```yaml
 name: Saksham
@@ -23,7 +21,10 @@ hobbies:
   - 🚀 Stargazing & Astronomy
   - 🧠 Problem Solving
   - 🎮 Gaming with Cosmic Vibes
-<h2 align="center">💻 My Spacecraft's Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat-square" /> </p>
-<h2 align="center">📊 My Space Logs</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BitsToBytes-Saksham&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BitsToBytes-Saksham&theme=react-dark&hide_border=true" /> </p>
-<h2 align="center">🌠 Let's Connect Across the Stars</h2> <p align="center"> <a href="https://github.com/BitsToBytes-Saksham"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /> </a> <!-- Add your socials here --> </p>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+space!;See+you+among+the+stars...+🌌" alt="Typing Footer" /> </p> ```
+💻 My Spacecraft's Stack
+<p align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square" /> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat-square" /> </p>
+📊 My Space Logs
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BitsToBytes-Saksham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BitsToBytes-Saksham&theme=react-dark&hide_border=true" /> </p>
+🌠 Let's Connect Across the Stars
+<p align="center"> <a href="https://github.com/BitsToBytes-Saksham"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /> </a> <!-- Add more socials like LinkedIn, Twitter, etc. here --> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+space!;See+you+among+the+stars...+🌌" alt="Footer Typing SVG" /> </p> ```
