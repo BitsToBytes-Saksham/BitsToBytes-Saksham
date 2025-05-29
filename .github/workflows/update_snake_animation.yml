@@ -1,53 +1,31 @@
-name: Update Electric Contribution Snake
+name: Generate Snake Animation
 
 on:
-  # Schedule to run the action automatically
   schedule:
-    # Runs every 6 hours (you can adjust this cron expression)
-    # Cron syntax: minute hour day(of_month) month day(of_week)
-    # '0 */6 * * *' means at minute 0, every 6th hour, every day, every month, every day of the week.
     - cron: "0 */6 * * *"
-
-  # Allows you to run this workflow manually from the Actions tab on GitHub
   workflow_dispatch:
 
 jobs:
   generate:
-    # Use the latest Ubuntu version for the virtual environment
     runs-on: ubuntu-latest
-    # Set a timeout for the job, in case it gets stuck
     timeout-minutes: 10
 
     steps:
-      # Step 1: Generate the snake animation SVG
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake animation
-        # Use the 'Platane/snk' GitHub Action
         uses: Platane/snk@v3
         with:
-          # Your GitHub username (automatically uses the repository owner's name)
           github_user_name: ${{ github.repository_owner }}
-
-          # Define the output SVG file(s).
-          # You can specify different palettes and colors.
-          # The part after '?' are parameters for the snk action.
           svg_out_path: dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=00A3FF,79D8FF,#007ACC
         env:
-          # The GITHUB_TOKEN is automatically provided by GitHub
-          # It has permissions to write to your repository (needed to push the output branch)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 2: Push the generated SVG file to the 'output' branch
-      - name: Deploy snake animation to output branch
-        # Use the 'crazy-max/ghaction-github-pages' GitHub Action to push files
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          # The branch where the generated SVG file will be pushed.
-          # If this branch doesn't exist, this action will create it.
           target_branch: output
-
-          # The directory in the workflow runner that contains the files to be pushed.
-          # 'snk' action outputs to 'dist/' by default in this configuration.
           build_dir: dist
         env:
-          # Again, the GITHUB_TOKEN is needed for write permissions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
