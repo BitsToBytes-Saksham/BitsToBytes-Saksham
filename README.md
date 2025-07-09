@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="GitHub_Poster.png" alt="GitHub Banner" width="100%" />
+</p>
 <div align="center">
   <h1 style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; font-size: 3.5em; color: #00A3FF; margin-bottom: 0px; letter-spacing: 2px; text-shadow: 2px 2px 4px #00000030;">
     SAKSHAM GUPTA
