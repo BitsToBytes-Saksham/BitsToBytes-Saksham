@@ -77,8 +77,9 @@
   <a href="mailto:sakshamgupta.1107@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Saksham Gupta"/>
   </a>  
-  <a href="https://www.canva.com/design/DAGcvnLEnj0/CznFRp7YNln7HmN39s9VVg/view?utm_content=DAGcvnLEnj0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he72a23fe9e" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View-Resume-00A3FF?style=for-the-badge&logo=canva&logoColor=white" alt="View Saksham Gupta's Resume"/>
+  <a href="https://drive.google.com/file/d/10UxHLDL_TtOOsmzp7k3HgZoF1bgGm9Tx/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View-Resume-00A3FF?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Saksham Gupta's Resume"/>
+</a>
   </a>
 </p>
 
