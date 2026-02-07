@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' style='isolation: isolate' viewBox='0 0 495 195' width='495px' height='195px'>
+    <defs>
+        <clipPath id='outer_rectangle'>
+            <rect width='495' height='195' rx='4.5'/>
+        </clipPath>
+    </defs>
+    <g clip-path='url(#outer_rectangle)'>
+        <rect stroke='#00A3FF' fill='#0D1117' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
+        
+        <!-- Total Contributions -->
+        <g transform='translate(82.5, 48)'>
+            <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#C0C0C0' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='400' font-size='14px'>Total Contributions</text>
+            <text x='0' y='60' stroke-width='0' text-anchor='middle' fill='#E0E0E0' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='700' font-size='28px'>Loading...</text>
+        </g>
+        
+        <!-- Current Streak -->
+        <g transform='translate(247.5, 48)'>
+            <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#00A3FF' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='700' font-size='14px'>Current Streak</text>
+            <g transform='translate(0, 25)'>
+                <text x='0' y='32' fill='#FF8C00' font-size='24px' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='400' text-anchor='middle'>🔥</text>
+            </g>
+            <text x='0' y='95' stroke-width='0' text-anchor='middle' fill='#FFFFFF' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='700' font-size='28px'>--</text>
+        </g>
+        
+        <!-- Longest Streak -->
+        <g transform='translate(412.5, 48)'>
+            <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#C0C0C0' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='400' font-size='14px'>Longest Streak</text>
+            <text x='0' y='60' stroke-width='0' text-anchor='middle' fill='#E0E0E0' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='700' font-size='28px'>--</text>
+        </g>
+        
+        <!-- Loading message -->
+        <g transform='translate(247.5, 160)'>
+            <text x='0' y='0' stroke-width='0' text-anchor='middle' fill='#79D8FF' font-family='Segoe UI, Ubuntu, sans-serif' font-weight='400' font-size='11px'>Stats will update automatically via GitHub Action</text>
+        </g>
+    </g>
+</svg>

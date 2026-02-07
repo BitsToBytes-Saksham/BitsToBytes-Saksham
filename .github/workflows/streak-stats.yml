@@ -1,0 +1,38 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Run every 6 hours
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download Streak Stats SVG
+        run: |
+          curl -o streak-stats.svg "https://streak-stats.demolab.com?user=BitsToBytes-Saksham&theme=dark&hide_border=true&background=0D1117&stroke=00A3FF&ring=79D8FF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=00A3FF&sideLabels=C0C0C0&dates=79D8FF"
+
+      - name: Check if SVG contains error
+        id: check-error
+        run: |
+          if grep -q "Failed to retrieve" streak-stats.svg; then
+            echo "error=true" >> $GITHUB_OUTPUT
+          else
+            echo "error=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if valid
+        if: steps.check-error.outputs.error == 'false'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add streak-stats.svg
+          git diff --staged --quiet || git commit -m "chore: Update streak stats [skip ci]"
+          git push

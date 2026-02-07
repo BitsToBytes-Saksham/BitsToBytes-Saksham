@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 25px;">
-        <img src="https://github-readme-streak-stats-beige-nine.vercel.app?user=BitsToBytes-Saksham&theme=dark&hide_border=true&background=0D1117&stroke=00A3FF&ring=79D8FF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=00A3FF&sideLabels=C0C0C0&dates=79D8FF" alt="GitHub Streak" />
+        <img src="streak-stats.svg" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
