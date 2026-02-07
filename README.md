@@ -20,15 +20,15 @@
   <table width="95%" style="border: none; font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <tr>
       <td width="50%" valign="top" style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=BitsToBytes-Saksham&show_icons=true&theme=transparent&hide_border=true&icon_color=00A3FF&text_color=00A3FF&title_color=79D8FF&rank_icon=github&bg_color=0D111700&cache_seconds=14400" alt="Saksham Gupta's GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BitsToBytes-Saksham&show_icons=true&theme=transparent&hide_border=true&icon_color=00A3FF&text_color=00A3FF&title_color=79D8FF&rank_icon=github&bg_color=0D111700" alt="Saksham Gupta's GitHub Stats" width="100%"/>
       </td>
       <td width="50%" valign="top" style="padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitsToBytes-Saksham&layout=compact&theme=transparent&hide_border=true&langs_count=8&icon_color=00A3FF&text_color=00A3FF&title_color=79D8FF&bg_color=0D111700&cache_seconds=14400" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BitsToBytes-Saksham&layout=compact&theme=transparent&hide_border=true&langs_count=8&icon_color=00A3FF&text_color=00A3FF&title_color=79D8FF&bg_color=0D111700" alt="Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 25px;">
-        <img src="https://streak-stats.demolab.com/?user=BitsToBytes-Saksham&theme=tokyonight&hide_border=true&background=0D111700&stroke=00A3FF&ring=79D8FF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=00A3FF&sideLabels=C0C0C0&date_format=M%20j%2C%20Y%5D&cache_seconds=14400" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitsToBytes-Saksham&theme=transparent&hide_border=true&background=0D1117&stroke=00A3FF&ring=79D8FF&fire=FF8C00&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=00A3FF&sideLabels=C0C0C0&dates=79D8FF" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
