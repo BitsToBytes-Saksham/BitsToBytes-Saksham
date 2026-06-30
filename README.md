@@ -9,7 +9,7 @@
     Code. Debug. Deploy.
   </h3>
   <p style="font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #D0D0D0; font-size: 1.05em; max-width: 700px; margin: auto; line-height: 1.7;">
-    A Third-Year CSE Student.
+    A Fourth-Year CSE Student.
   </p>
 </div>
 
